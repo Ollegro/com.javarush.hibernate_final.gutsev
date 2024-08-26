@@ -24,6 +24,6 @@ public class City {
     private Integer population;
 
 
-    //Getters and Setters omitted
+
 
 }

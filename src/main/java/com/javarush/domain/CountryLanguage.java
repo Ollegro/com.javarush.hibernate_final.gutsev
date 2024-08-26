@@ -29,5 +29,5 @@ public class CountryLanguage {
     private BigDecimal percentage;
 
 
-    //Getters and Setters omitted
+
 }
