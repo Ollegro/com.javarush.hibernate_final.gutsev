@@ -1,9 +1,12 @@
-package com.javarush.domain;
+package com.javarush;
 
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.javarush.dao.CityDAO;
 import com.javarush.dao.CountryDAO;
+import com.javarush.domain.City;
+import com.javarush.domain.Country;
+import com.javarush.domain.CountryLanguage;
 import com.javarush.redis.CityCountry;
 import com.javarush.redis.Language;
 import io.lettuce.core.RedisClient;
